@@ -36,5 +36,5 @@ $python3 demo.py
 
 **Result**
 
-![Result](../img/result.png)
+![Result](img/result.png)
 
