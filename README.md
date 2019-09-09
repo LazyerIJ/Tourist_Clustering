@@ -22,7 +22,7 @@ Calculate **uclidean Distance** and get result
 
 ### RUN
 
- Check your chrome version and download driver from [here][https://chromedriver.chromium.org/downloads] at **./utils/**
+ Check your chrome version and download driver from [here][https://chromedriver.chromium.org/downloads] at **./utils/**chromedriver
 
  Download [GoogleNews-vectors-negative300.bin][https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit] at **./utils/**
 
