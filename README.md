@@ -28,6 +28,7 @@ Calculate **uclidean Distance** and get result
 
 $cd src
 
+$python3 get_reviews.py
 $python3 demo.py
 
 
