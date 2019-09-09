@@ -12,6 +12,8 @@
 
 - need chromedriver
 
+- need to set tourlist_url.json file(default 5 tourlist)
+
 Save it to csv file
 
 **Get Word2vec model**
@@ -28,8 +30,8 @@ Calculate **uclidean Distance** and get result
 
 $cd src
 
-$python3 get_reviews.py
-$python3 demo.py
+$python3 get_reviews.py # reviews csv file make
+$python3 demo.py # run
 
 
 
