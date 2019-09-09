@@ -11,7 +11,7 @@ from selenium.webdriver.support.ui import WebDriverWait as wait
 base_url = "https://www.tripadvisor.com/"
 comment_class_id = "partial_entry"
 comment_page_idx = "data-page-number"
-driver_path = "../utils/chromedriver_linux"
+driver_path = "../utils/chromedriver"
 
 
 def write_csv(fname, total_comment):
